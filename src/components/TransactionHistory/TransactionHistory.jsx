@@ -1,5 +1,5 @@
 import { TableTr, TableTd } from './TransactionHistory.style';
-import css from 'components/TransactionHistory/TransactionHistory.module.css';
+// import css from 'components/TransactionHistory/TransactionHistory.module.css';
 import PropTypes from 'prop-types';
 
 export const TransactionHistory = ({ transactions }) => {

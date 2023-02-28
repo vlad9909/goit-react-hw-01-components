@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import { getRandomHexColor } from './getRandomColor';
+// import { getRandomHexColor } from './getRandomColor';
 export const List = styled.ul`
   display: flex;
   justify-content: space-around;
